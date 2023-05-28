@@ -1,0 +1,558 @@
+{
+  "biomesoplenty:recipes/transportation/boat_mahogany": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2023-05-01 15:28:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2023-05-06 13:18:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2023-05-13 15:09:57 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_forest": {
+    "criteria": {
+      "discover": "2023-05-17 18:40:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2023-05-06 13:18:19 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/highlands_center": {
+    "criteria": {
+      "discover": "2023-05-17 19:30:04 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/oak_savannah": {
+    "criteria": {
+      "discover": "2023-05-17 18:41:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2023-05-17 18:36:20 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_clearing": {
+    "criteria": {
+      "discover": "2023-05-17 19:24:36 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "oasis": "2023-05-13 22:25:34 +0300",
+      "woodland": "2023-05-06 13:38:37 +0300",
+      "shrubland": "2023-05-13 20:42:12 +0300",
+      "fen": "2023-04-27 14:43:53 +0300",
+      "alps_foothills": "2023-05-13 23:23:55 +0300",
+      "mountain": "2023-05-13 21:07:14 +0300",
+      "chaparral": "2023-05-06 12:57:46 +0300",
+      "wetland": "2023-04-27 14:18:29 +0300",
+      "cold_desert": "2023-04-27 15:28:35 +0300",
+      "mountain_foothills": "2023-05-13 21:07:09 +0300",
+      "maple_woods": "2023-05-14 10:58:40 +0300",
+      "coral_reef": "2023-05-13 19:09:36 +0300",
+      "land_of_lakes": "2023-04-27 14:41:24 +0300",
+      "bog": "2023-04-27 14:18:44 +0300",
+      "coniferous_forest": "2023-04-27 14:14:30 +0300",
+      "shield": "2023-04-27 14:13:36 +0300",
+      "alps": "2023-05-13 23:24:03 +0300",
+      "redwood_forest": "2023-05-09 15:11:19 +0300",
+      "snowy_forest": "2023-05-14 11:05:30 +0300",
+      "temperate_rainforest": "2023-05-06 10:05:36 +0300",
+      "dead_swamp": "2023-04-27 14:17:41 +0300",
+      "kelp_forest": "2023-05-13 19:49:12 +0300",
+      "glacier": "2023-04-27 15:20:22 +0300",
+      "meadow": "2023-04-27 16:29:13 +0300",
+      "snowy_coniferous_forest": "2023-04-27 15:43:53 +0300",
+      "tundra": "2023-04-27 15:28:42 +0300",
+      "gravel_beach": "2023-05-13 19:49:28 +0300",
+      "crag": "2023-05-14 10:38:29 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2023-05-17 18:36:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2023-04-27 15:19:38 +0300",
+      "frozen_river": "2023-05-17 23:03:09 +0300",
+      "forest": "2023-05-06 10:05:52 +0300",
+      "swampland": "2023-04-27 14:17:55 +0300",
+      "birch_forest": "2023-05-13 20:42:14 +0300",
+      "deep_ocean": "2023-05-13 19:49:21 +0300",
+      "beaches": "2023-05-13 19:09:27 +0300",
+      "extreme_hills_with_trees": "2023-04-27 15:19:58 +0300",
+      "plains": "2023-04-27 14:19:21 +0300",
+      "ice_mountains": "2023-04-27 15:19:41 +0300",
+      "taiga": "2023-04-27 14:17:50 +0300",
+      "taiga_hills": "2023-04-27 15:44:27 +0300",
+      "birch_forest_hills": "2023-05-13 20:42:17 +0300",
+      "ocean": "2023-05-13 19:09:31 +0300",
+      "extreme_hills": "2023-04-27 15:19:43 +0300",
+      "roofed_forest": "2023-04-27 14:19:06 +0300",
+      "river": "2023-04-27 14:14:24 +0300",
+      "desert": "2023-05-13 22:00:37 +0300"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/boat_fir": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2023-05-17 18:36:20 +0300"
+    },
+    "done": true
+  },
+  "buildcraftenergy:sticky_dipping": {
+    "criteria": {
+      "oil": "2023-04-27 14:19:29 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_swamp": {
+    "criteria": {
+      "0": "2023-05-17 19:29:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2023-04-27 14:46:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2023-05-06 10:18:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-05-06 12:25:05 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/thornlands": {
+    "criteria": {
+      "discover": "2023-05-17 19:29:59 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_willow": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2023-05-06 12:34:11 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/snowy_forest": {
+    "criteria": {
+      "discover": "2023-05-17 19:00:32 +0300"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2023-04-27 14:13:36 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_sacred_oak": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2023-05-06 12:34:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2023-05-17 18:36:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_pine": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2023-05-17 18:36:20 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_redwood": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/deep_mushroom_forest": {
+    "criteria": {
+      "discover": "2023-05-17 19:24:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2023-05-01 14:07:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2023-05-11 06:32:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-05-01 12:59:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2023-05-11 06:32:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2023-04-27 14:46:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2023-05-06 12:25:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2023-05-17 18:40:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2023-05-17 18:36:20 +0300"
+    },
+    "done": true
+  },
+  "mystcraft:root": {
+    "criteria": {
+      "mystcraft_present": "2023-04-27 14:13:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2023-05-06 12:25:14 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_ethereal": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2023-05-13 18:57:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_cherry": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2023-05-06 12:34:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2023-05-17 18:36:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2023-05-17 18:36:20 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_jacaranda": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_umbran": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_anemone": {
+    "criteria": {
+      "has_flower": "2023-05-06 12:25:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2023-05-01 15:28:13 +0300",
+      "zombie": "2023-05-01 15:28:09 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2023-05-06 13:04:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2023-05-17 18:36:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2023-05-13 15:04:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2023-05-13 15:09:57 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/brown_dye_from_flat_mushroom": {
+    "criteria": {
+      "has_flower": "2023-05-01 14:07:02 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/general_biomes": {
+    "criteria": {
+      "0": "2023-05-17 18:40:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2023-05-11 06:32:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2023-05-13 15:04:08 +0300"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2023-04-27 14:13:36 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2023-05-06 12:25:14 +0300",
+      "red_flower": "2023-05-06 12:25:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2023-05-01 15:28:13 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2023-05-17 18:40:37 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_magic": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_ebony": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2023-05-17 18:36:20 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_hellbark": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2023-05-17 18:36:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2023-05-17 18:36:20 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mangrove": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/mushroom_forest": {
+    "criteria": {
+      "discover": "2023-05-17 19:29:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2023-05-11 06:32:38 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_highlands": {
+    "criteria": {
+      "discover": "2023-05-17 19:43:50 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/dense_twilight_forest": {
+    "criteria": {
+      "discover": "2023-05-17 23:02:12 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_palm": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2023-04-27 14:13:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2023-05-06 12:34:11 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
+    "criteria": {
+      "entered_water": "2023-04-27 16:05:57 +0300"
+    },
+    "done": true
+  }
+}

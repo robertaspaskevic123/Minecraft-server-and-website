@@ -1,0 +1,6 @@
+modname:eplus
+
+texture:id=enchanting_table_side,filename=assets/eplus/textures/blocks/enchanting_table_side.png,xcount=1,ycount=1
+texture:id=enchanting_table_bottom,filename=assets/eplus/textures/blocks/enchanting_table_bottom.png,xcount=1,ycount=1
+texture:id=enchanting_table_top,filename=assets/eplus/textures/blocks/enchanting_table_top.png,xcount=1,ycount=1
+block:id=%advanced_table,patch0=0:enchanting_table_side,patch1=0:enchanting_table_bottom,patch2=0:enchanting_table_top,transparency=TRANSPARENT,stdrot=true

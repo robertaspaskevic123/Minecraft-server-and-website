@@ -1,0 +1,9 @@
+modname:fairylights
+
+texture:id=fastener,filename=assets/fairylights/textures/blocks/fastener.png,xcount=1,ycount=1
+block:id=%fastener,state=facing:west,patch0=0:fastener,transparency=TRANSPARENT,stdrot=true
+block:id=%fastener,state=facing:up,patch0=0:fastener,transparency=TRANSPARENT,stdrot=true
+block:id=%fastener,state=facing:down,patch0=0:fastener,transparency=TRANSPARENT,stdrot=true
+block:id=%fastener,state=facing:east,patch0=0:fastener,transparency=TRANSPARENT,stdrot=true
+block:id=%fastener,state=facing:south,patch0=0:fastener,transparency=TRANSPARENT,stdrot=true
+block:id=%fastener,state=facing:north,patch0=0:fastener,transparency=TRANSPARENT,stdrot=true

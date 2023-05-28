@@ -1,0 +1,146 @@
+{
+  "worldZones": {
+    "0": {
+      "dimensionID": 0,
+      "areaZones": [],
+      "id": 2,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "-1": {
+      "dimensionID": -1,
+      "areaZones": [],
+      "id": 3,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "1": {
+      "dimensionID": 1,
+      "areaZones": [],
+      "id": 4,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "2": {
+      "dimensionID": 2,
+      "areaZones": [],
+      "id": 9,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "14676": {
+      "dimensionID": 14676,
+      "areaZones": [],
+      "id": 11,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "-6": {
+      "dimensionID": -6,
+      "areaZones": [],
+      "id": 8,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "7": {
+      "dimensionID": 7,
+      "areaZones": [],
+      "id": 10,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "-9": {
+      "dimensionID": -9,
+      "areaZones": [],
+      "id": 7,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "-11325": {
+      "dimensionID": -11325,
+      "areaZones": [],
+      "id": 5,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "-9999": {
+      "dimensionID": -9999,
+      "areaZones": [],
+      "id": 6,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    }
+  },
+  "playerGroups": {},
+  "id": 1,
+  "playerPermissions": {
+    "(fefefefe-fefe-fefe-fefe-fefefefefefe|$SERVER)": {
+      "*": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(fefefefe-fefe-fefe-fefe-fefefefefecc|$RCON)": {
+      "*": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(fefefefe-fefe-fefe-fefe-fefefefefecb|$COMMANDBLOCK)": {
+      "*": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(d752affb-70c1-48cf-a6d9-bd4566cf6dc2|Liutka)": {},
+    "(fefefefe-fefe-fefe-fefe-fefefefefeec|$FE_ECONOMY)": {
+      "fe.economy.command.wallet.*": "true",
+      "command.give": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(8d02c8e5-4b83-4669-9c46-1bd86bee79b0|Indrebar)": {
+      "fe.internal.player.known": "true"
+    },
+    "(2001c9aa-bbf8-306c-9b60-485e8cc6e215|$NPC)": {
+      "fe.internal.player.known": "true"
+    },
+    "(cbfb4358-723f-4460-9389-e244c5575818|KektusDWH)": {
+      "fe.internal.player.known": "true"
+    }
+  },
+  "groupPermissions": {
+    "_PLAYERS_": {
+      "fe.remote.chat.send": "true",
+      "fe.internal.group.priority": "1",
+      "fe.internal.group": "true"
+    },
+    "_NPC_": {
+      "fe.internal.group.name": "NPCs",
+      "fe.internal.group.priority": "1",
+      "fe.internal.group": "true"
+    },
+    "_FAKEPLAYERS_": {
+      "fe.internal.group.priority": "15",
+      "fe.internal.group": "true",
+      "fe.protection.*": "true"
+    },
+    "_OPS_": {
+      "fe.internal.prefix": "[\u0026cOP\u0026f]",
+      "fe.internal.group.priority": "50",
+      "fe.internal.group": "true"
+    },
+    "_ALL_": {
+      "fe.remote.chat.send": "false",
+      "some.test.permission": "true",
+      "fe.internal.group.name": "players",
+      "fe.internal.group.priority": "0",
+      "fe.internal.group": "true",
+      "fe.internal.spawn.location": "[86.90396081795875,66.0,664.5834680256467,dim\u003d0,pitch\u003d17.399763,yaw\u003d160.50136]"
+    },
+    "_CREATIVE_": {
+      "fe.internal.group": "true"
+    },
+    "_ADVENTURE_": {
+      "fe.internal.group": "true"
+    },
+    "_GUESTS_": {
+      "fe.internal.prefix": "[GUEST]",
+      "fe.internal.group.priority": "10",
+      "fe.internal.group": "true"
+    }
+  }
+}

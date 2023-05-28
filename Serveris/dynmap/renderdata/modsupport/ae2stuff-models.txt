@@ -1,0 +1,12 @@
+modname:ae2stuff
+
+modellist:id=%encoder,state=active:true/facing:west,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:e/0:s/0:d/0:w/0:n/0:R/0/270/0
+modellist:id=%encoder,state=active:false/facing:west,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:e/0:s/0:d/0:w/0:n/0:R/0/270/0
+modellist:id=%encoder,state=active:false/facing:south,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:e/0:s/0:d/0:w/0:n/0:R/0/180/0
+modellist:id=%encoder,state=active:true/facing:down,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:e/0:s/0:d/0:w/0:n/0:R/90/0/0
+modellist:id=%encoder,state=active:true/facing:up,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:e/0:s/0:d/0:w/0:n/0:R/270/0/0
+modellist:id=%encoder,state=active:true/facing:east,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:e/0:s/0:d/0:w/0:n/0:R/0/90/0
+modellist:id=%encoder,state=active:true/facing:south,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:e/0:s/0:d/0:w/0:n/0:R/0/180/0
+modellist:id=%encoder,state=active:false/facing:down,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:e/0:s/0:d/0:w/0:n/0:R/90/0/0
+modellist:id=%encoder,state=active:false/facing:east,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:e/0:s/0:d/0:w/0:n/0:R/0/90/0
+modellist:id=%encoder,state=active:false/facing:up,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:e/0:s/0:d/0:w/0:n/0:R/270/0/0

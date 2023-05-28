@@ -1,0 +1,5 @@
+modname:buildcraftrobotics
+
+modellist:id=%zone_planner,state=facing:west,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/3:e/1:s/5:d/2:w/0:n/4:R/0/270/0
+modellist:id=%zone_planner,state=facing:east,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/3:e/1:s/5:d/2:w/0:n/4:R/0/90/0
+modellist:id=%zone_planner,state=facing:south,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/3:e/1:s/5:d/2:w/0:n/4:R/0/180/0

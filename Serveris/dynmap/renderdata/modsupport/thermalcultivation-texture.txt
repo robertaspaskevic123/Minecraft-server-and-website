@@ -1,0 +1,14 @@
+modname:thermalcultivation
+
+texture:id=soil_basic,filename=assets/thermalcultivation/textures/blocks/soil/soil_basic.png,xcount=1,ycount=1
+texture:id=soil_basic_top,filename=assets/thermalcultivation/textures/blocks/soil/soil_basic_top.png,xcount=1,ycount=1
+texture:id=soil_flux,filename=assets/thermalcultivation/textures/blocks/soil/soil_flux.png,xcount=1,ycount=1
+texture:id=soil_rich,filename=assets/thermalcultivation/textures/blocks/soil/soil_rich.png,xcount=1,ycount=1
+texture:id=soil_flux_top,filename=assets/thermalcultivation/textures/blocks/soil/soil_flux_top.png,xcount=1,ycount=1
+texture:id=soil_rich_top,filename=assets/thermalcultivation/textures/blocks/soil/soil_rich_top.png,xcount=1,ycount=1
+block:id=%soil,state=tilled:false/type:basic,patch0=0:soil_basic,patch1=0:soil_basic,patch2=0:soil_basic,patch3=0:soil_basic,patch4=0:soil_basic,patch5=0:soil_basic,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%soil,state=tilled:true/type:basic,patch0=0:soil_basic,patch1=0:soil_basic_top,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%soil,state=tilled:false/type:flux,patch0=0:soil_flux,patch1=0:soil_flux,patch2=0:soil_flux,patch3=0:soil_flux,patch4=0:soil_flux,patch5=0:soil_flux,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%soil,state=tilled:false/type:rich,patch0=0:soil_rich,patch1=0:soil_rich,patch2=0:soil_rich,patch3=0:soil_rich,patch4=0:soil_rich,patch5=0:soil_rich,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%soil,state=tilled:true/type:flux,patch0=0:soil_flux,patch1=0:soil_flux_top,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%soil,state=tilled:true/type:rich,patch0=0:soil_rich,patch1=0:soil_rich_top,transparency=SEMITRANSPARENT,stdrot=true

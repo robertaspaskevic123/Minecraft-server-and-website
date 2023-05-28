@@ -1,0 +1,4 @@
+modname:galacticcomputers
+
+texture:id=sealed_cable,filename=assets/galacticcomputers/textures/blocks/sealed_cable.png,xcount=1,ycount=1
+block:id=%sealed_cable,patch0=0:sealed_cable,patch1=0:sealed_cable,patch2=0:sealed_cable,patch3=0:sealed_cable,patch4=0:sealed_cable,patch5=0:sealed_cable,transparency=SEMITRANSPARENT,stdrot=true

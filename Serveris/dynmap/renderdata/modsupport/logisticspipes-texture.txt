@@ -1,0 +1,17 @@
+modname:logisticspipes
+
+texture:id=pipe,filename=assets/logisticspipes/textures/blocks/pipe.png,xcount=1,ycount=1
+texture:id=frame,filename=assets/logisticspipes/textures/solid_block/frame.png,xcount=1,ycount=1
+block:id=%pipe,patch0=0:pipe,patch1=0:pipe,patch2=0:pipe,patch3=0:pipe,patch4=0:pipe,patch5=0:pipe,transparency=TRANSPARENT,stdrot=true
+block:id=%solid_block,state=block_sub_type:2,patch0=0:frame,patch1=0:frame,patch2=0:frame,patch3=0:frame,patch4=0:frame,patch5=0:frame,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%solid_block,state=block_sub_type:3,patch0=0:frame,patch1=0:frame,patch2=0:frame,patch3=0:frame,patch4=0:frame,patch5=0:frame,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%solid_block,state=block_sub_type:0,patch0=0:frame,patch1=0:frame,patch2=0:frame,patch3=0:frame,patch4=0:frame,patch5=0:frame,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%solid_block,state=block_sub_type:11,patch0=0:frame,patch1=0:frame,patch2=0:frame,patch3=0:frame,patch4=0:frame,patch5=0:frame,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%solid_block,state=block_sub_type:1,patch0=0:frame,patch1=0:frame,patch2=0:frame,patch3=0:frame,patch4=0:frame,patch5=0:frame,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%solid_block,state=block_sub_type:6,patch0=0:frame,patch1=0:frame,patch2=0:frame,patch3=0:frame,patch4=0:frame,patch5=0:frame,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%solid_block,state=block_sub_type:7,patch0=0:frame,patch1=0:frame,patch2=0:frame,patch3=0:frame,patch4=0:frame,patch5=0:frame,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%solid_block,state=block_sub_type:4,patch0=0:frame,patch1=0:frame,patch2=0:frame,patch3=0:frame,patch4=0:frame,patch5=0:frame,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%solid_block,state=block_sub_type:5,patch0=0:frame,patch1=0:frame,patch2=0:frame,patch3=0:frame,patch4=0:frame,patch5=0:frame,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%solid_block,state=block_sub_type:8,patch0=0:frame,patch1=0:frame,patch2=0:frame,patch3=0:frame,patch4=0:frame,patch5=0:frame,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%solid_block,state=block_sub_type:9,patch0=0:frame,patch1=0:frame,patch2=0:frame,patch3=0:frame,patch4=0:frame,patch5=0:frame,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%solid_block,state=block_sub_type:10,patch0=0:frame,patch1=0:frame,patch2=0:frame,patch3=0:frame,patch4=0:frame,patch5=0:frame,transparency=SEMITRANSPARENT,stdrot=true

@@ -1,0 +1,7 @@
+modname:powersuits
+
+block:id=%tinkertable,state=facing:west,transparency=TRANSPARENT,stdrot=true
+block:id=%tinkertable,state=facing:east,transparency=TRANSPARENT,stdrot=true
+block:id=%tinkertable,state=facing:south,transparency=TRANSPARENT,stdrot=true
+block:id=%tinkertable,state=facing:north,transparency=TRANSPARENT,stdrot=true
+block:id=%liquid_nitrogen,transparency=TRANSPARENT,stdrot=true

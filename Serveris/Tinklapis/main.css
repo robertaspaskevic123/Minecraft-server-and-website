@@ -1,0 +1,400 @@
+::selection {
+  background: black;
+  color: #e67e22;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {   
+    background-image: url("images/background.png");   
+    background-attachment: fixed;
+}
+
+.head {
+    display: inline;
+    margin: auto;
+}
+
+.main-container {
+    
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
+
+.logo {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.logo > img {
+    display: block;
+    margin: 0 auto;
+    
+}
+
+
+.server-info {
+    width: 100%;
+    color: #666666;
+    margin-bottom: 20px;
+}
+
+.nav-bar {
+    width: 100%;
+    height: 50px;
+}
+
+.nav-bar > ul {
+    list-style-type: none;
+    text-align: center;
+    line-height: 50px;
+}
+
+
+.nav-bar > ul > li {
+    display: inline;
+    padding: 10px;
+}
+
+.nav-bar > ul > li > a {
+    text-decoration: none;
+    color: #bbbbbb;
+}
+
+.nav-bar > ul > li > a:hover {
+    color: white;
+    transition: 0.3s ease-in;
+}
+
+.nav-bar > ul > li > a:focus {
+  border-bottom: solid 2px;
+  border-color: #e67e22;
+}
+
+.nav-bar > ul > li > a.active {
+  border-bottom: solid 2px;
+  border-color: #e67e22;
+ color: white;
+}
+
+.content {
+    width: 100%;
+    background-color:  rgba(0, 0, 0, 0.3);
+    border: solid 2px;
+    border-color: rgba(255, 255, 255, 0.15);
+    padding: 10px;
+    color: #bbbbbb;
+}
+
+.content > table {
+    color: white;
+}
+
+.footer {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+
+.footer > p {
+    color: #666666;
+    padding: 20px;
+}
+.footer > p > span {
+    color: #e67e22;
+}
+
+
+.server-status {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.status-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+
+.status-label {
+  font-weight: 300;
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.status-value {
+  font-size: 18px;
+  color: green;
+}
+
+.status-value.off {
+  color: red;
+}
+
+.progress-bar {
+  position: relative;
+  width: 90%;
+  height: 40px;
+  background-size: cover;
+  border: solid 3px;
+  border-radius: 30px;
+  border-color: rgba(255, 255, 255, 0.15);
+  background-color:  rgba(0, 0, 0, 0.3);
+  margin-bottom: 10px;
+}
+
+.progress {
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+  color: white;
+  position: relative;
+  background-image: url('images/lava.webp');
+  border-radius: 20px;
+}
+
+.player-count {
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.player-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+
+.player {
+  position: relative;
+  margin-right: 0.5rem;
+  cursor: pointer;
+}
+
+.player img {
+  width: 48px;
+  height: 48px;
+}
+
+.player:hover:after {
+  content: attr(data-name);
+  position: absolute;
+  top: -1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #343434;
+  color: white;
+  padding: 2px;
+  border-radius: 0.5rem;
+  font-size: 0.8rem;
+  white-space: nowrap;
+}
+
+span.ip-adress {
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 5px;
+}
+
+span.ip-color {
+    color: #e67e22;
+}
+
+.back-button {
+    margin-top: 5px;
+    background-color: #e67e22;
+    padding: 7px;
+    position: absolute;
+    border-radius: 10px;
+    float: left;
+}
+
+.back-button > a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.back-button > a:hover {
+    color: #343434;
+    transition: 0.3s ease-in
+}
+
+table {
+    text-align: center;
+    margin: 0 auto;
+}
+
+table > thead {
+    vertical-align: bottom;
+}
+
+table > tbody {
+    vertical-align: inherit;
+}
+
+tr:nth-child(even) {
+    background-color: rgba(201, 201, 201, 0.1);
+}
+
+tr:nth-child(odd) {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+td > img {
+    margin-right: 10px;
+}
+
+.content-stats {
+    width: 100%;
+    background-color:  rgba(0, 0, 0, 0.3);
+    border: solid 2px;
+    border-color: rgba(255, 255, 255, 0.15);
+    padding: 10px;
+    color: #bbbbbb;
+    text-align: center;
+}
+
+a.download {
+    text-decoration: none;
+    color: #e67e22;
+    font-weight: 900;
+}
+
+.image_containers {
+    display: flex;
+    justify-content: center;
+}
+
+.banned {
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.banned > img {
+    width: 200px;
+    height: 200px;
+}
+
+.muted {
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.muted > img {
+    width: 200px;
+    height: 200px;
+}
+
+.kicked {
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    float: right;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.kicked > img {
+    width: 200px;
+    height: 200px;
+}
+
+.info_containers {
+    display: flex;
+    justify-content: center;
+}
+
+.banned_stats {
+    background-color: #e67e22;
+    width: 300px;
+    height: 20px;
+    color: black;
+    font-weight: bold;
+    float: left;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.muted_stats {
+    background-color: #e67e22;
+    width: 300px;
+    height: 20px;
+    color: black;
+    font-weight: bold;
+    margin-left: 200px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.kicked_stats {
+    background-color: #e67e22;
+    width: 300px;
+    height: 20px;
+    color: black;
+    font-weight: bold;
+    float: right;
+    margin-left: 200px;
+    margin-right: 40px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+input {
+    width: 350px;
+    height: 35px;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #e67e22;
+    background-color:  rgba(0, 0, 0, 0.3);
+    color: #e67e22;
+}
+
+p.not_found {
+    color: #e67e22;
+    font-weight: 500;
+    text-align: center;
+}
+
+a.mod_title {
+    text-decoration: none;
+    color: #e67e22;
+    font-size: 19px;
+}
+
+a.mod_title:hover {
+    color: white;
+    transition: 0.3s ease-in;
+    font-size: 19px;
+    text-decoration: underline;
+}

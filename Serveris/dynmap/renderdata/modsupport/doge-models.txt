@@ -1,0 +1,8 @@
+modname:doge
+
+modellist:id=%mining_rig,state=facing:south/mining:false,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/2:e/0:s/2:d/1:w/0:n/3:R/0/180/0
+modellist:id=%mining_rig,state=facing:west/mining:true,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/2:e/0:s/2:d/1:w/0:n/3:R/0/270/0
+modellist:id=%mining_rig,state=facing:east/mining:false,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/2:e/0:s/2:d/1:w/0:n/3:R/0/90/0
+modellist:id=%mining_rig,state=facing:west/mining:false,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/2:e/0:s/2:d/1:w/0:n/3:R/0/270/0
+modellist:id=%mining_rig,state=facing:east/mining:true,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/2:e/0:s/2:d/1:w/0:n/3:R/0/90/0
+modellist:id=%mining_rig,state=facing:south/mining:true,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/2:e/0:s/2:d/1:w/0:n/3:R/0/180/0

@@ -1,0 +1,11 @@
+modname:thaumtweaks
+
+texture:id=crafter_side,filename=assets/thaumtweaks/textures/blocks/crafter_side.png,xcount=1,ycount=1
+texture:id=crafter_bottom,filename=assets/thaumtweaks/textures/blocks/crafter_bottom.png,xcount=1,ycount=1
+texture:id=crafter_top,filename=assets/thaumtweaks/textures/blocks/crafter_top.png,xcount=1,ycount=1
+block:id=%crafter,state=facing:west,patch0=0:crafter_side,patch1=0:crafter_bottom,patch2=0:crafter_top,transparency=TRANSPARENT,stdrot=true
+block:id=%crafter,state=facing:up,patch0=0:crafter_side,patch1=0:crafter_bottom,patch2=0:crafter_top,transparency=TRANSPARENT,stdrot=true
+block:id=%crafter,state=facing:down,patch0=0:crafter_side,patch1=0:crafter_bottom,patch2=0:crafter_top,transparency=TRANSPARENT,stdrot=true
+block:id=%crafter,state=facing:east,patch0=0:crafter_side,patch1=0:crafter_bottom,patch2=0:crafter_top,transparency=TRANSPARENT,stdrot=true
+block:id=%crafter,state=facing:south,patch0=0:crafter_side,patch1=0:crafter_bottom,patch2=0:crafter_top,transparency=TRANSPARENT,stdrot=true
+block:id=%crafter,state=facing:north,patch0=0:crafter_side,patch1=0:crafter_bottom,patch2=0:crafter_top,transparency=TRANSPARENT,stdrot=true

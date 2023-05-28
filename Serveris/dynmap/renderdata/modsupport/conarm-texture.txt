@@ -1,0 +1,17 @@
+modname:conarm
+
+texture:id=table_side,filename=assets/tconstruct/textures/blocks/table_side.png,xcount=1,ycount=1
+texture:id=planks_oak,filename=assets/minecraft/textures/blocks/planks_oak.png,xcount=1,ycount=1
+texture:id=armorstation_top,filename=assets/conarm/textures/blocks/armorstation_top.png,xcount=1,ycount=1
+texture:id=armorforge_top,filename=assets/conarm/textures/blocks/armorforge_top.png,xcount=1,ycount=1
+texture:id=iron_block,filename=assets/minecraft/textures/blocks/iron_block.png,xcount=1,ycount=1
+texture:id=soft_obsidian_2,filename=assets/conarm/textures/blocks/soft_obsidian_2.png,xcount=1,ycount=1
+texture:id=soft_obsidian_3,filename=assets/conarm/textures/blocks/soft_obsidian_3.png,xcount=1,ycount=1
+texture:id=obsidian,filename=assets/minecraft/textures/blocks/obsidian.png,xcount=1,ycount=1
+texture:id=soft_obsidian_1,filename=assets/conarm/textures/blocks/soft_obsidian_1.png,xcount=1,ycount=1
+block:id=%armorstation,patch0=0:table_side,patch1=0:planks_oak,patch2=0:armorstation_top,transparency=TRANSPARENT,stdrot=true
+block:id=%armorforge,patch0=0:armorforge_top,patch1=0:iron_block,transparency=TRANSPARENT,stdrot=true
+block:id=%soft_obsidian,state=age:2,patch0=0:soft_obsidian_2,patch1=0:soft_obsidian_2,patch2=0:soft_obsidian_2,patch3=0:soft_obsidian_2,patch4=0:soft_obsidian_2,patch5=0:soft_obsidian_2,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%soft_obsidian,state=age:3,patch0=0:soft_obsidian_3,patch1=0:soft_obsidian_3,patch2=0:soft_obsidian_3,patch3=0:soft_obsidian_3,patch4=0:soft_obsidian_3,patch5=0:soft_obsidian_3,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%soft_obsidian,state=age:0,patch0=0:obsidian,patch1=0:obsidian,patch2=0:obsidian,patch3=0:obsidian,patch4=0:obsidian,patch5=0:obsidian,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%soft_obsidian,state=age:1,patch0=0:soft_obsidian_1,patch1=0:soft_obsidian_1,patch2=0:soft_obsidian_1,patch3=0:soft_obsidian_1,patch4=0:soft_obsidian_1,patch5=0:soft_obsidian_1,transparency=SEMITRANSPARENT,stdrot=true

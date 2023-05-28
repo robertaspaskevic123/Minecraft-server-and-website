@@ -1,0 +1,7 @@
+modname:powersuits
+
+modellist:id=%tinkertable,state=facing:west
+modellist:id=%tinkertable,state=facing:east
+modellist:id=%tinkertable,state=facing:south
+modellist:id=%tinkertable,state=facing:north
+modellist:id=%liquid_nitrogen

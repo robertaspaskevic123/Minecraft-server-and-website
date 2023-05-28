@@ -1,0 +1,3 @@
+modname:projectred-exploration
+texture:id=txt0019,filename=assets/projectred/textures/blocks/world/basalt.png,xcount=1,ycount=1
+block:id=stone,data=3,patch0=0:txt0019,patch1=0:txt0019,patch2=0:txt0019,patch3=0:txt0019,patch4=0:txt0019,patch5=0:txt0019,stdrot=true

@@ -1,0 +1,14 @@
+modname:buildcraftsilicon
+
+texture:id=side,filename=assets/buildcraftsilicon/textures/blocks/laser/side.png,xcount=1,ycount=1
+texture:id=bottom,filename=assets/buildcraftsilicon/textures/blocks/laser/bottom.png,xcount=1,ycount=1
+texture:id=top,filename=assets/buildcraftsilicon/textures/blocks/laser/top.png,xcount=1,ycount=1
+block:id=%assembly_table,transparency=TRANSPARENT,stdrot=true
+block:id=%laser,state=facing:west,patch0=0:side,patch1=0:bottom,patch2=0:top,transparency=TRANSPARENT,stdrot=true
+block:id=%laser,state=facing:up,patch0=0:side,patch1=0:bottom,patch2=0:top,transparency=TRANSPARENT,stdrot=true
+block:id=%laser,state=facing:down,patch0=0:side,patch1=0:bottom,patch2=0:top,transparency=TRANSPARENT,stdrot=true
+block:id=%laser,state=facing:east,patch0=0:side,patch1=0:bottom,patch2=0:top,transparency=TRANSPARENT,stdrot=true
+block:id=%laser,state=facing:south,patch0=0:side,patch1=0:bottom,patch2=0:top,transparency=TRANSPARENT,stdrot=true
+block:id=%laser,state=facing:north,patch0=0:side,patch1=0:bottom,patch2=0:top,transparency=TRANSPARENT,stdrot=true
+block:id=%advanced_crafting_table,transparency=TRANSPARENT,stdrot=true
+block:id=%integration_table,transparency=TRANSPARENT,stdrot=true

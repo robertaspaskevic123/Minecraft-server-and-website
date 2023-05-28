@@ -1,0 +1,78 @@
+%YAML 1.1
+---
+worlds:
+-   sealevel: 63
+    nether: false
+    name: DIM-6
+    the_end: false
+    title: world/MINING_WORLD
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: world
+    the_end: false
+    title: world/overworld
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM-9
+    the_end: false
+    title: world/ichoriumkitbedrockworld
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM-11
+    the_end: false
+    title: world/Storage Cell
+    height: 256
+-   sealevel: 65
+    nether: false
+    name: DIM-9999
+    the_end: false
+    title: world/ExtraUtils2_Quarry_Dim
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM-11325
+    the_end: false
+    title: world/Deep Dark
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM1
+    the_end: true
+    title: world/the_end
+    height: 256
+-   sealevel: 63
+    nether: true
+    name: DIM-1
+    the_end: false
+    title: world/the_nether
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM14676
+    the_end: false
+    title: world/emptiness
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM7
+    the_end: false
+    title: world/twilight_forest
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: worldas
+    the_end: false
+    title: worldas/overworld
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM1210950779
+    the_end: false
+    title: worldas/Mystcraft
+    height: 256
+isMCPC: false
+useSaveFolderAsName: true
+maxWorldHeight: 256

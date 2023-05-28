@@ -1,0 +1,11 @@
+modname:chiselsandbits
+
+texture:id=log_oak_top,filename=assets/minecraft/textures/blocks/log_oak_top.png,xcount=1,ycount=1
+texture:id=log_oak,filename=assets/minecraft/textures/blocks/log_oak.png,xcount=1,ycount=1
+texture:id=planks_oak,filename=assets/minecraft/textures/blocks/planks_oak.png,xcount=1,ycount=1
+texture:id=iron_block,filename=assets/minecraft/textures/blocks/iron_block.png,xcount=1,ycount=1
+texture:id=glass,filename=assets/minecraft/textures/blocks/glass.png,xcount=1,ycount=1
+block:id=%bittank,state=facing:west,patch0=0:log_oak_top,patch1=0:log_oak,patch2=0:planks_oak,patch3=0:iron_block,patch4=0:glass,transparency=TRANSPARENT,stdrot=true
+block:id=%bittank,state=facing:east,patch0=0:log_oak_top,patch1=0:log_oak,patch2=0:planks_oak,patch3=0:iron_block,patch4=0:glass,transparency=TRANSPARENT,stdrot=true
+block:id=%bittank,state=facing:south,patch0=0:log_oak_top,patch1=0:log_oak,patch2=0:planks_oak,patch3=0:iron_block,patch4=0:glass,transparency=TRANSPARENT,stdrot=true
+block:id=%bittank,state=facing:north,patch0=0:log_oak_top,patch1=0:log_oak,patch2=0:planks_oak,patch3=0:iron_block,patch4=0:glass,transparency=TRANSPARENT,stdrot=true

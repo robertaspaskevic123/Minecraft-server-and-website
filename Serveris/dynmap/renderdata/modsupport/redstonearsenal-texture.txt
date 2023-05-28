@@ -1,0 +1,6 @@
+modname:redstonearsenal
+
+texture:id=crystal_flux,filename=assets/redstonearsenal/textures/blocks/storage/crystal_flux.png,xcount=1,ycount=1
+texture:id=electrum_flux,filename=assets/redstonearsenal/textures/blocks/storage/electrum_flux.png,xcount=1,ycount=1
+block:id=%storage,state=type:crystalflux,patch0=0:crystal_flux,patch1=0:crystal_flux,patch2=0:crystal_flux,patch3=0:crystal_flux,patch4=0:crystal_flux,patch5=0:crystal_flux,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%storage,state=type:electrumflux,patch0=0:electrum_flux,patch1=0:electrum_flux,patch2=0:electrum_flux,patch3=0:electrum_flux,patch4=0:electrum_flux,patch5=0:electrum_flux,transparency=SEMITRANSPARENT,stdrot=true

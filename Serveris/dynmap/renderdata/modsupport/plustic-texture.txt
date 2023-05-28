@@ -1,0 +1,12 @@
+modname:plustic
+
+texture:id=alumiteblock,filename=assets/plustic/textures/blocks/alumiteblock.png,xcount=1,ycount=1
+texture:id=invarblock,filename=assets/plustic/textures/blocks/invarblock.png,xcount=1,ycount=1
+texture:id=osgloglasblock,filename=assets/plustic/textures/blocks/osgloglasblock.png,xcount=1,ycount=1
+texture:id=mirionblock,filename=assets/plustic/textures/blocks/mirionblock.png,xcount=1,ycount=1
+texture:id=osmiridiumblock,filename=assets/plustic/textures/blocks/osmiridiumblock.png,xcount=1,ycount=1
+block:id=%alumiteblock,patch0=0:alumiteblock,patch1=0:alumiteblock,patch2=0:alumiteblock,patch3=0:alumiteblock,patch4=0:alumiteblock,patch5=0:alumiteblock,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%invarblock,patch0=0:invarblock,patch1=0:invarblock,patch2=0:invarblock,patch3=0:invarblock,patch4=0:invarblock,patch5=0:invarblock,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%osgloglasblock,patch0=0:osgloglasblock,patch1=0:osgloglasblock,patch2=0:osgloglasblock,patch3=0:osgloglasblock,patch4=0:osgloglasblock,patch5=0:osgloglasblock,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%mirionblock,patch0=0:mirionblock,patch1=0:mirionblock,patch2=0:mirionblock,patch3=0:mirionblock,patch4=0:mirionblock,patch5=0:mirionblock,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%osmiridiumblock,patch0=0:osmiridiumblock,patch1=0:osmiridiumblock,patch2=0:osmiridiumblock,patch3=0:osmiridiumblock,patch4=0:osmiridiumblock,patch5=0:osmiridiumblock,transparency=SEMITRANSPARENT,stdrot=true

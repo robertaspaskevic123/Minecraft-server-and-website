@@ -1,0 +1,12 @@
+modname:gendustry
+
+modellist:id=%mutatron_advanced
+modellist:id=%replicator
+modellist:id=%sampler
+modellist:id=%liquifier
+modellist:id=%mutatron
+modellist:id=%imprinter
+modellist:id=%mutagen_producer
+modellist:id=%extractor
+modellist:id=%industrial_apiary
+modellist:id=%transposer

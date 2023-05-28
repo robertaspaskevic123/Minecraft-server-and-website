@@ -1,0 +1,10 @@
+modname:chickenchunks
+
+texture:id=side,filename=assets/chickenchunks/textures/blocks/full/side.png,xcount=1,ycount=1
+texture:id=bottom,filename=assets/chickenchunks/textures/blocks/full/bottom.png,xcount=1,ycount=1
+texture:id=top,filename=assets/chickenchunks/textures/blocks/full/top.png,xcount=1,ycount=1
+texture:id=side1,filename=assets/chickenchunks/textures/blocks/spot/side.png,xcount=1,ycount=1
+texture:id=bottom1,filename=assets/chickenchunks/textures/blocks/spot/bottom.png,xcount=1,ycount=1
+texture:id=top1,filename=assets/chickenchunks/textures/blocks/spot/top.png,xcount=1,ycount=1
+block:id=%chunk_loader,state=type:block_loader,patch0=0:side,patch1=0:bottom,patch2=0:top,transparency=TRANSPARENT,stdrot=true
+block:id=%chunk_loader,state=type:spot_loader,patch0=0:side1,patch1=0:bottom1,patch2=0:top1,transparency=TRANSPARENT,stdrot=true

@@ -1,0 +1,9 @@
+# The user is free to add new and custom lightings here, including replacements for standard ones
+# Dynmap's install will not overwrite it
+lightings:
+  - class: org.dynmap.hdmap.ShadowHDLighting
+    name: my-custom-lighting
+    shadowstrength: 1.0
+    ambientlight: 4
+    night-and-day: true
+    smooth-lighting: false

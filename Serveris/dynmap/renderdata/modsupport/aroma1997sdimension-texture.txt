@@ -1,0 +1,12 @@
+modname:aroma1997sdimension
+
+texture:id=miningportal,filename=assets/aroma1997sdimension/textures/blocks/miningportal.png,xcount=1,ycount=1
+texture:id=portalframe,filename=assets/aroma1997sdimension/textures/blocks/portalframe.png,xcount=1,ycount=1
+texture:id=stickyore,filename=assets/aroma1997sdimension/textures/blocks/stickyore.png,xcount=1,ycount=1
+texture:id=clayore,filename=assets/aroma1997sdimension/textures/blocks/clayore.png,xcount=1,ycount=1
+block:id=%miningportal,state=type:x,patch0=0:miningportal,transparency=TRANSPARENT,stdrot=true
+block:id=%miningportal,state=type:y,patch0=0:miningportal,transparency=TRANSPARENT,stdrot=true
+block:id=%miningportal,state=type:z,patch0=0:miningportal,transparency=TRANSPARENT,stdrot=true
+block:id=%portalframe,patch0=0:portalframe,patch1=0:portalframe,patch2=0:portalframe,patch3=0:portalframe,patch4=0:portalframe,patch5=0:portalframe,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%miningore,state=type:sticky_ore,patch0=0:stickyore,patch1=0:stickyore,patch2=0:stickyore,patch3=0:stickyore,patch4=0:stickyore,patch5=0:stickyore,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%miningore,state=type:clay_ore,patch0=0:clayore,patch1=0:clayore,patch2=0:clayore,patch3=0:clayore,patch4=0:clayore,patch5=0:clayore,transparency=SEMITRANSPARENT,stdrot=true

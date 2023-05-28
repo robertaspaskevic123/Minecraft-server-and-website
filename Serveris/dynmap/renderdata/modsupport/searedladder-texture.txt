@@ -1,0 +1,12 @@
+modname:searedladder
+
+texture:id=seared_brick_fancy,filename=assets/tconstruct/textures/blocks/smeltery/seared_brick_fancy.png,xcount=1,ycount=1
+texture:id=ladder,filename=assets/searedladder/textures/blocks/ladder.png,xcount=1,ycount=1
+block:id=%seared_ladder,state=facing:east/bottom:true,patch0=0:seared_brick_fancy,patch1=0:ladder,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%seared_ladder,state=facing:west/bottom:false,patch0=0:seared_brick_fancy,patch1=0:ladder,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%seared_ladder,state=facing:north/bottom:true,patch0=0:seared_brick_fancy,patch1=0:ladder,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%seared_ladder,state=facing:south/bottom:true,patch0=0:seared_brick_fancy,patch1=0:ladder,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%seared_ladder,state=facing:west/bottom:true,patch0=0:seared_brick_fancy,patch1=0:ladder,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%seared_ladder,state=facing:east/bottom:false,patch0=0:seared_brick_fancy,patch1=0:ladder,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%seared_ladder,state=facing:south/bottom:false,patch0=0:seared_brick_fancy,patch1=0:ladder,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%seared_ladder,state=facing:north/bottom:false,patch0=0:seared_brick_fancy,patch1=0:ladder,transparency=SEMITRANSPARENT,stdrot=true

@@ -1,0 +1,4 @@
+modname:additionalpipes
+
+texture:id=teleport_tether,filename=assets/additionalpipes/textures/blocks/teleport_tether.png,xcount=1,ycount=1
+block:id=%teleport_tether,patch0=0:teleport_tether,patch1=0:teleport_tether,patch2=0:teleport_tether,patch3=0:teleport_tether,patch4=0:teleport_tether,patch5=0:teleport_tether,transparency=SEMITRANSPARENT,stdrot=true

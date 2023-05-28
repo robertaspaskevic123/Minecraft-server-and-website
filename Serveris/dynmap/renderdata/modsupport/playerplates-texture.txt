@@ -1,0 +1,8 @@
+modname:playerplates
+
+texture:id=cobblestone_mossy,filename=assets/minecraft/textures/blocks/cobblestone_mossy.png,xcount=1,ycount=1
+texture:id=obsidian,filename=assets/minecraft/textures/blocks/obsidian.png,xcount=1,ycount=1
+block:id=%mossy_plate,state=powered:true,patch0=0:cobblestone_mossy,transparency=TRANSPARENT,stdrot=true
+block:id=%mossy_plate,state=powered:false,patch0=0:cobblestone_mossy,transparency=TRANSPARENT,stdrot=true
+block:id=%obsidian_plate,state=powered:true,patch0=0:obsidian,transparency=TRANSPARENT,stdrot=true
+block:id=%obsidian_plate,state=powered:false,patch0=0:obsidian,transparency=TRANSPARENT,stdrot=true

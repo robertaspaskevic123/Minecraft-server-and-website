@@ -1,0 +1,4 @@
+modname:thaumicenergistics
+
+texture:id=infusion_provider,filename=assets/thaumicenergistics/textures/block/infusion_provider.png,xcount=1,ycount=1
+block:id=%infusion_provider,patch0=0:infusion_provider,patch1=0:infusion_provider,patch2=0:infusion_provider,patch3=0:infusion_provider,patch4=0:infusion_provider,patch5=0:infusion_provider,transparency=SEMITRANSPARENT,stdrot=true

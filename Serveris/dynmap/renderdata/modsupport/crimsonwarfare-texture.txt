@@ -1,0 +1,5 @@
+modname:crimsonwarfare
+
+texture:id=pedestal_side,filename=assets/thaumcraft/textures/blocks/pedestal_side.png,xcount=1,ycount=1
+texture:id=pedestal_top,filename=assets/thaumcraft/textures/blocks/pedestal_top.png,xcount=1,ycount=1
+block:id=%boss_activator,patch0=0:pedestal_side,patch1=0:pedestal_top,transparency=TRANSPARENT,stdrot=true

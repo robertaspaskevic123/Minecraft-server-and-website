@@ -1,0 +1,4 @@
+modname:ichunutil
+
+texture:id=pigblock,filename=assets/ichunutil/textures/blocks/pigblock.png,xcount=1,ycount=1
+block:id=%compact_porkchop,patch0=0:pigblock,patch1=0:pigblock,patch2=0:pigblock,patch3=0:pigblock,patch4=0:pigblock,patch5=0:pigblock,transparency=SEMITRANSPARENT,stdrot=true

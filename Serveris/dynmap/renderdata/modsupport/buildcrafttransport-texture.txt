@@ -1,0 +1,4 @@
+modname:buildcrafttransport
+
+texture:id=default,filename=assets/buildcrafttransport/textures/blocks/filtered_buffer/default.png,xcount=1,ycount=1
+block:id=%filtered_buffer,patch0=0:default,patch1=0:default,patch2=0:default,patch3=0:default,patch4=0:default,patch5=0:default,transparency=SEMITRANSPARENT,stdrot=true

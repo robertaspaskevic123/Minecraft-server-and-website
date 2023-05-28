@@ -1,0 +1,29 @@
+{
+  "ident": "(d752affb-70c1-48cf-a6d9-bd4566cf6dc2|Liutka)",
+  "lastTeleportOrigin": {
+    "dim": 0,
+    "pitch": 47.849712,
+    "yaw": -115.952576,
+    "xd": 120.80238194661467,
+    "yd": 68.0,
+    "zd": 368.36930737385404
+  },
+  "lastDeathLocation": {
+    "dim": 0,
+    "pitch": 47.849712,
+    "yaw": -115.952576,
+    "xd": 120.80238194661467,
+    "yd": 68.0,
+    "zd": 368.36930737385404
+  },
+  "lastTeleportTime": 0,
+  "selDim": 0,
+  "inventoryGroups": {},
+  "modInventoryGroups": {},
+  "activeInventoryGroup": "default",
+  "timePlayed": 255500424,
+  "firstLogin": "May 1, 2023 2:03:17 PM",
+  "lastLogin": "May 18, 2023 5:37:52 AM",
+  "lastLogout": "May 18, 2023 5:26:16 AM",
+  "namedTimeout": {}
+}

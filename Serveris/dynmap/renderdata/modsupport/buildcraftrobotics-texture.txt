@@ -1,0 +1,12 @@
+modname:buildcraftrobotics
+
+texture:id=left,filename=assets/buildcraftrobotics/textures/blocks/zone_planner/left.png,xcount=1,ycount=1
+texture:id=right,filename=assets/buildcraftrobotics/textures/blocks/zone_planner/right.png,xcount=1,ycount=1
+texture:id=default,filename=assets/buildcraftrobotics/textures/blocks/zone_planner/default.png,xcount=1,ycount=1
+texture:id=top,filename=assets/buildcraftrobotics/textures/blocks/zone_planner/top.png,xcount=1,ycount=1
+texture:id=front,filename=assets/buildcraftrobotics/textures/blocks/zone_planner/front.png,xcount=1,ycount=1
+texture:id=back,filename=assets/buildcraftrobotics/textures/blocks/zone_planner/back.png,xcount=1,ycount=1
+block:id=%zone_planner,state=facing:west,patch0=0:left,patch1=0:right,patch2=0:default,patch3=0:top,patch4=0:front,patch5=0:back,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%zone_planner,state=facing:east,patch0=0:left,patch1=0:right,patch2=0:default,patch3=0:top,patch4=0:front,patch5=0:back,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%zone_planner,state=facing:south,patch0=0:left,patch1=0:right,patch2=0:default,patch3=0:top,patch4=0:front,patch5=0:back,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%zone_planner,state=facing:north,patch0=0:left,patch1=0:default,patch2=0:front,patch3=0:right,patch4=0:top,patch5=0:back,transparency=SEMITRANSPARENT,stdrot=true

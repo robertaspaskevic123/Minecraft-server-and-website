@@ -1,0 +1,6 @@
+modname:ichoriumkit
+
+texture:id=bedrock_portal,filename=assets/ichoriumkit/textures/blocks/bedrock_portal.png,xcount=1,ycount=1
+texture:id=ichor_block,filename=assets/ichoriumkit/textures/blocks/ichor_block.png,xcount=1,ycount=1
+block:id=%bedrock_portal,patch0=0:bedrock_portal,patch1=0:bedrock_portal,patch2=0:bedrock_portal,patch3=0:bedrock_portal,patch4=0:bedrock_portal,patch5=0:bedrock_portal,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%ichor_block,patch0=0:ichor_block,patch1=0:ichor_block,patch2=0:ichor_block,patch3=0:ichor_block,patch4=0:ichor_block,patch5=0:ichor_block,transparency=TRANSPARENT,stdrot=true

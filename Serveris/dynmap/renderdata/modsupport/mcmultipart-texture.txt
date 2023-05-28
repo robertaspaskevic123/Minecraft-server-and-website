@@ -1,0 +1,5 @@
+modname:mcmultipart
+
+texture:id=bedrock,filename=assets/minecraft/textures/blocks/bedrock.png,xcount=1,ycount=1
+block:id=%multipart,state=ticking:true,patch0=0:bedrock,patch1=0:bedrock,patch2=0:bedrock,patch3=0:bedrock,patch4=0:bedrock,patch5=0:bedrock,transparency=TRANSPARENT,stdrot=true
+block:id=%multipart,state=ticking:false,patch0=0:bedrock,patch1=0:bedrock,patch2=0:bedrock,patch3=0:bedrock,patch4=0:bedrock,patch5=0:bedrock,transparency=TRANSPARENT,stdrot=true

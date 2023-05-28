@@ -1,0 +1,32 @@
+{
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2023-05-03 19:31:08 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "fen": "2023-05-03 19:31:07 +0300"
+    },
+    "done": false
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2023-05-03 19:31:08 +0300"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2023-05-03 19:31:07 +0300"
+    },
+    "done": true
+  },
+  "mystcraft:root": {
+    "criteria": {
+      "mystcraft_present": "2023-05-03 19:31:08 +0300"
+    },
+    "done": true
+  }
+}

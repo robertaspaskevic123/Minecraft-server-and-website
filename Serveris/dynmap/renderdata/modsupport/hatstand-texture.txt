@@ -1,0 +1,11 @@
+modname:hatstand
+
+texture:id=planks_oak,filename=assets/minecraft/textures/blocks/planks_oak.png,xcount=1,ycount=1
+block:id=%hatstand,state=type:4,patch0=0:planks_oak,transparency=TRANSPARENT,stdrot=true
+block:id=%hatstand,state=type:5,patch0=0:planks_oak,transparency=TRANSPARENT,stdrot=true
+block:id=%hatstand,state=type:6,patch0=0:planks_oak,transparency=TRANSPARENT,stdrot=true
+block:id=%hatstand,state=type:7,patch0=0:planks_oak,transparency=TRANSPARENT,stdrot=true
+block:id=%hatstand,state=type:0,patch0=0:planks_oak,transparency=TRANSPARENT,stdrot=true
+block:id=%hatstand,state=type:1,patch0=0:planks_oak,transparency=TRANSPARENT,stdrot=true
+block:id=%hatstand,state=type:2,patch0=0:planks_oak,transparency=TRANSPARENT,stdrot=true
+block:id=%hatstand,state=type:3,patch0=0:planks_oak,transparency=TRANSPARENT,stdrot=true

@@ -1,0 +1,8 @@
+# rules.txt | numbers are automatically added
+Pagarba administratoriams ir zaidejams
+Draudziama keiktis bei izeidineti
+Draudziama naudoti zaidima palengvinancias programas
+Draudziama apgaudineti serverio zaidejus
+Draudziama griauti blokus prie zaidejo ploto
+Draudziama skleisti melaginga informacija
+
